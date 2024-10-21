@@ -1,2 +1,2 @@
 
-Document.write('<h1>Hello world</h1>');
+Document.write('Hello world');
