@@ -1,2 +1,0 @@
-
-Document.write('Hello world');
